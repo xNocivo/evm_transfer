@@ -1,3 +1,5 @@
+#need python 3
+#first run need to install web3 library using command: pip install web3
 from web3 import Web3
 
 rpc = 'https://polygon-rpc.com' #RPC HTTP
