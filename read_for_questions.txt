@@ -3,5 +3,22 @@ need intalled Python >=3.7.2
 first run need to install web3 library using command: pip install web3
 
 #pt-br
-precisa do Python >=3.7.2 installado
+precisa do Python >=3.7.2 instalado
 na primeira vez que for rodar o código precisa instalar a biblioteca web3 usando o comando: pip install web3
+
+configuration:
+inside rapa_eth.py
+RPC VAR => Your HTTP RPC
+receiver Var => your address as receiver balance
+arrayAcc Obj => Yours accounts privatekey in array with QM each and separated by , =>  "" ''
+
+ex: arrayAcc = ['privateKey1', 'privateKey2'', 'privateKey3']
+
+#pt-br
+configuração:
+dentro de rapa_eth.py
+rpc VAR => Seu RPC HTTP
+receiver Var => seu endereço como saldo do receptor
+arrayAcc Obj => Chave privada da sua conta em array cada uma com aspas separadas por , => "" ''
+
+arrayAcc =  ['privateKey1', 'privateKey2', 'privateKey3']
