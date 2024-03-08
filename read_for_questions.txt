@@ -1,0 +1,7 @@
+#en
+need intalled Python >=3.7.2
+first run need to install web3 library using command: pip install web3
+
+#pt-br
+precisa do Python >=3.7.2 installado
+na primeira vez que for rodar o código precisa instalar a biblioteca web3 usando o comando: pip install web3
