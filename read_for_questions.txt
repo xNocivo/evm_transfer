@@ -6,6 +6,7 @@ first run need to install web3 library using command: pip install web3
 precisa do Python >=3.7.2 instalado
 na primeira vez que for rodar o código precisa instalar a biblioteca web3 usando o comando: pip install web3
 
+#en
 configuration:
 inside rapa_eth.py
 RPC VAR => Your HTTP RPC
