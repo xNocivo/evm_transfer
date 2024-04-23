@@ -4,7 +4,7 @@ from web3 import Web3
 
 rpc = 'https://polygon-rpc.com' #RPC HTTP
 
-receiver = '' #Address receiver
+receiver = '' #Public Address receiver
 
 arrayAcc = [] #array of privatekeys 
 
